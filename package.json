@@ -1,0 +1,15 @@
+{
+  "name": "underlink",
+  "version": "0.0.1",
+  "author": "@aj0strow",
+  "main": "index.js",
+  "bin": {
+    "underlink": "underlink.js"
+  },
+  "scripts": {
+    "test": "cd testapp && ./test.sh"
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
