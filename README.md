@@ -12,10 +12,10 @@ Import relative to the project:
 var env = require("_/env")
 ```
 
-Install with github and npm:
+Install with npm:
 
 ```sh
-$ npm install --save aj0strow/underlink
+$ npm install --save underlink
 ```
 
 You can use it as a command, like in an npm `postinstall` script:
